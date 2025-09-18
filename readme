@@ -1,0 +1,20 @@
+# 💻 Nome do Meu Projeto Incrível
+esse e o jogo do numero magico para jogar necessita o python atualizado
+---
+### 🛠️ Tecnologias Utilizadas
+* Python 3.11
+---
+### 🚀 Como Executar o Projeto
+
+```bash
+# Clone este repositório
+$ git clone [https://github.com/seu-usuario/nome-do-projeto.git](https://github.com/seu-usuario/nome-do-projeto.git)
+
+# Acesse a pasta do projeto
+$ cd nome-do-projeto
+
+# Instale as dependências (exemplo para Python)
+$ pip install -r requirements.txt
+
+# Execute a aplicação
+$ python app.py
